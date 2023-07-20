@@ -1,7 +1,7 @@
 ## Project Name: Product Management System
 
 ### Description:
-This is a web-based Product Management System that allows users to register, log in, and manage their products. The backend is built using the latest .NET Core framework with a MySQL database, and the frontend is developed using ReactJS. The application uses WT Authentication for secure user registration and login.
+This is a web-based Product Management System that allows users to register, log in, and manage their products. The backend is built using the latest .NET Core framework with a MySQL database, and the frontend is developed using ReactJS. The application uses JWT Authentication for secure user registration and login.
 
 ### Features:
 - User Registration: Users can register by providing their name and email address.
@@ -16,4 +16,4 @@ This is a web-based Product Management System that allows users to register, log
 - Backend: .NET Core 
 - Frontend: ReactJS
 - Database: MySQL
-- Authentication: WT Authentication
+- Authentication: JWT Authentication
